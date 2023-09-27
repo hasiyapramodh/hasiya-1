@@ -1,0 +1,26 @@
+
+.nav-link:hover{
+    color: red;
+    text-decoration: underline;
+}
+.navbar-nav .nav-item:hover {
+    color: #fff; 
+    border:  solid purple; 
+   
+}
+.button:hover {
+    background-color: #ff0000; /* Change the background color on hover */
+    
+}
+.badge:hover{
+    
+    border: solid blue; 
+   
+   
+    cursor: pointer;
+}
+.card-2:hover{
+    
+    border: solid purple; 
+   
+}
